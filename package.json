@@ -1,0 +1,26 @@
+{
+  "name": "yoga2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isakura313/yoga2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isakura313/yoga2/issues"
+  },
+  "homepage": "https://github.com/isakura313/yoga2#readme",
+  "devDependencies": {
+    "anime": "^0.1.2",
+    "aos": "^2.3.4",
+    "relax": "^0.1.1",
+    "webpack": "^4.41.6"
+  }
+}
