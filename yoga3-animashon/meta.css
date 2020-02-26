@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    width: 1310px;
+    margin: 10px auto;
+  }
+  :root{
+    --blue: #1ba1e1;
+    --gray: #161616;
+    --dark: #000000;
+    --rad:  #ff5384;
+    --light-blue: #037270;
+    --light-green: #A6CC64;
+    --serif:'Playfair Display', serif;
+    --sans-serif: 'Roboto', sans-serif;
+    --sfs:16px;
+  }

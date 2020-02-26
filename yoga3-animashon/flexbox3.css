@@ -1,0 +1,62 @@
+.cards{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 0px;
+}
+.card{
+     width: 45%;
+    padding: 20px 20px;
+    
+}
+.card__img{
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    margin-bottom: 20px;
+}
+.card__computer{
+    background-image: url('img/1.png');
+}
+.card__networking2{
+    background-image: url('img/2.png');
+}
+.card__settings{
+    background-image: url('img/3.png');
+}
+
+.card__networking{
+    background-image: url('img/4.png');
+}
+.card__laptop{
+    background-image: url('img/5.png');
+}
+
+.card__startup{
+    background-image: url('img/6.png');
+}    
+.card__h3{
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    font-family: var(--serif);
+    font-size: 1.3em;
+    color: var(--blue);
+}
+.card__p{
+    width: 99%;
+    
+    text-align: center;
+    font-family: var(--sans-serif);
+    font-size: calc(var(--sfs)/1.2);
+    line-height: 30px;
+}
+.card__line{       
+    width: 90px;
+    height:5px;
+    background-color: var(--rad);
+    margin-left: 20px;
+}
